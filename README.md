@@ -17,22 +17,22 @@ A `Hotel Reservation System` named as `VBook`, coded in `Java and PHP`. Vendor a
 
 ### Working Screenshots
 <div align="center">
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/splash-screen-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/main-screen-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/login-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/register-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/splash-screen-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/main-screen-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/login-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/register-ss.png" alt = "" width="200px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/vendor-options-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/hotel-registration-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/registered-hotels-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/customer-options-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/vendor-options-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/hotel-registration-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/registered-hotels-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/customer-options-ss.png" alt = "" width="200px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/reserve-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/hotel-selection-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/hotel-reservation-ss.png" alt = "" width="200px"/>
-  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/extras/reservations-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/reserve-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/hotel-selection-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/hotel-reservation-ss.png" alt = "" width="200px"/>
+  <img src = "https://github.com/ATUL0922/Hotel-Reservation-App/blob/main/extras/reservations-ss.png" alt = "" width="200px"/>
 </div>
